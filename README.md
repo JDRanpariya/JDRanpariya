@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
 <h3 align="center">I'm AI and Data Science enthusiast</h3>
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/l3OwBXk83UiCVGdjLy/giphy.gif" />
+<br />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/l3OwBXk83UiCVGdjLy/giphy.gif" />
 
 - 🔭 I’m currently working on [Personal Dashboard](https://github.com/JDRanpariya/dstask/blob/master/dashboard.md)
 
 - 🌱 I’m currently learning **Deep learning, django, react, Qt, C++**
 
 - 👯 I’m looking to collaborate on **Kaggle Projects**
-
-- 🤝 I’m looking for help with **Pyside2, qt & cpp**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
@@ -60,15 +58,19 @@
 
 
 ## I'm looking forward to 
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![p5js](https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
 ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+<br/>
 <a href="https://github.com/jdranpariya" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdranpariya&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="jdranpariya" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdranpariya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" alt="jdranpariya" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdranpariya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&langs_count=7" alt="jdranpariya" />
 </a>
 
 <br/>
@@ -80,8 +82,5 @@
 <a href="https://twitter.com/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jdranpariya"  /></a>
 <a href="https://linkedin.com/in/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jdranpariya"  /></a>
 <a href="https://kaggle.com/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="jdranpariya"/></a>
-<a href="https://t.me/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="jdranpariya" /></a>
  <a href="mailto:jdpatel.code@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jdranpariya"  /></a>
 </p>
-
-<br/>
