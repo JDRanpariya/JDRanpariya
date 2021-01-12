@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
 <h3 align="center">I'm AI and Data Science enthusiast</h3>
 <br />
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/l3OwBXk83UiCVGdjLy/giphy.gif" />
+
+<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
 - 🔭 I’m currently working on [Personal Dashboard](https://github.com/JDRanpariya/dstask/blob/master/dashboard.md)
 
-- 🌱 I’m currently learning **Deep learning, django, react, Qt, C++**
+- 🌱 I’m currently learning **Deep learning, django, React, Qt, C++**
 
 - 👯 I’m looking to collaborate on **Kaggle Projects**
 
