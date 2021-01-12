@@ -12,7 +12,8 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
 - 💬 Ask me Anything!
-
+<details><summary>Skills</summary>
+  
 ## I work with:
 ### AI & DS
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +67,7 @@
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
+</details>
 <br/>
 <a href="https://github.com/jdranpariya" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdranpariya&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="jdranpariya" />
