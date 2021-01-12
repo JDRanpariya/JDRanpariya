@@ -69,6 +69,10 @@
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </details>
+<details><summary>Show coding stats</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
 <br/>
 <a href="https://github.com/jdranpariya" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdranpariya&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="jdranpariya" />
@@ -76,7 +80,7 @@
 </a>
 
 <br/>
-
+  
 
 ## 📫 Reach me at:
 
