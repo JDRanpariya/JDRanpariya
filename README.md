@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Personal Dashboard](https://github.com/JDRanpariya/dstask/blob/master/dashboard.md)
 
-- 🌱 I’m currently learning **Deep learning, django, React, Qt, C++**
+- 🌱 I’m currently learning **Deep learning, django, Next.js, GO**
 
 - 👯 I’m looking to collaborate on **Kaggle Projects**
 
