@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep learning, django, Next.js, GO**
 
-- 👯 I’m looking to collaborate on **Kaggle Projects**
+- 👯 I’m looking to collaborate on **Kaggle & GO Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
