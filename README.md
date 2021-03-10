@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Personal Dashboard](https://github.com/JDRanpariya/dstask/blob/master/dashboard.md)
 
-- 🌱 I’m currently learning **Deep learning, django, Next.js, GO**
+- 🌱 I’m currently learning **Deep learning, Flutter, Next.js, GO**
 
-- 👯 I’m looking to collaborate on **Kaggle & GO Projects**
+- 👯 I’m looking to collaborate on **Kaggle, Flutter & GO Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
@@ -61,13 +61,13 @@
 
 
 ## I'm looking forward to 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![p5js](https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
 ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 </details>
 <details><summary>Show coding stats</summary>
