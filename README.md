@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
 <h3 align="center">I'm AI and Data Science enthusiast</h3>
-<br />
+<br/>
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
@@ -32,6 +32,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-1FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
