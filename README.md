@@ -73,13 +73,13 @@
 </details>
 <details><summary>Show coding stats</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 301 Contributions in the Year 2021
  > 
-> 📦 26.6 kB Used in Github's Storage 
+> 📦 26.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
