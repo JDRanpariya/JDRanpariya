@@ -73,17 +73,17 @@
 </details>
 <details><summary>Show coding stats</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 301 Contributions in the Year 2021
+> 🏆 309 Contributions in the Year 2021
  > 
 > 📦 26.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -129,11 +129,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 
