@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
-- 🔭 I’m currently working on [Personal Dashboard](https://github.com/JDRanpariya/dstask/blob/master/dashboard.md)
+- 🔭 I’m currently working on [ReScholar](https://github.com/pranavAbe/ReScholar)
 
 - 🌱 I’m currently learning **Deep learning, Flutter, Next.js, GO**
 
