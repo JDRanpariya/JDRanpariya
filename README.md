@@ -71,6 +71,13 @@
 
 
 </details>
+<details><summary>Certifications</summary>
+ ✔️ Machine Learning by stanford ( Andrew Ng ) <br>
+ ✔️ Deep Learning Specialization by Andrew Ng <br>
+ ✔️ DeepLearning.AI TensorFlow Developer <br>
+ ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
+ ✔️ AI for Medicine Specialization - DeepLearning.AI  
+</details>
 <details><summary>Show coding stats</summary>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
