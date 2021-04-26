@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [ReScholar](https://github.com/pranavAbe/ReScholar)
 
-- 🌱 I’m currently learning **Deep learning, Flutter, Next.js, GO**
+- 🌱 I’m currently learning **Deep learning, Flutter, Next.js**
 
-- 👯 I’m looking to collaborate on **Kaggle, Flutter & GO Projects**
+- 👯 I’m looking to collaborate on **Kaggle, Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
