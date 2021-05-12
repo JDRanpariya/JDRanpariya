@@ -80,7 +80,7 @@
 </details>
 <details><summary>Show coding stats</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
@@ -123,14 +123,13 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     26 mins             ████████████████████████░   98.86% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ReScholar                27 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
