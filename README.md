@@ -123,13 +123,13 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    35 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      35 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -150,7 +150,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2021
+ Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
 </details>
 <br/>
