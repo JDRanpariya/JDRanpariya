@@ -80,7 +80,7 @@
 </details>
 <details><summary>Show coding stats</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -123,13 +123,13 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -150,7 +150,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2021
+ Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
 </details>
 <br/>
