@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
-- 🔭 I’m currently working on [ReScholar](https://github.com/pranavAbe/ReScholar)
+- 🔭 I’m currently working on **EmuAI**
 
-- 🌱 I’m currently learning **Deep learning, Flutter, Next.js**
+- 🌱 I’m currently learning **AI, JS**
 
-- 👯 I’m looking to collaborate on **Kaggle, Flutter Projects**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
