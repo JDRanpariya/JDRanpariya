@@ -86,7 +86,7 @@
 
 > 🏆 457 Contributions in the Year 2021
  > 
-> 📦 26.9 kB Used in Github's Storage 
+> 📦 27.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -150,7 +150,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 </details>
 <br/>
