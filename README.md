@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
-- 🔭 I’m currently working on **EmuAI**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **AI, JS**
+- 🌱 I’m currently learning **Blockchain, AI**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 I’m looking to collaborate on **/Just Wanna Make New Friends/** Let's Talk 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
