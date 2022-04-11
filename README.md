@@ -12,7 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
-- 💬 Ask me Anything!
+- 💬 Ask me Anything! 
+ @Discord JDRanpariya#8897
 <br />
 <details><summary>Skills</summary>
   
