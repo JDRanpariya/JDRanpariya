@@ -149,7 +149,7 @@ C                        2 repos             █░░░░░░░░░░�
 <br/>
 <a href="https://github.com/jdranpariya" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdranpariya&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="jdranpariya" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdranpariya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&langs_count=6" alt="jdranpariya" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdranpariya&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&langs_count=7" alt="jdranpariya" />
 </a>
 
 <br/>
