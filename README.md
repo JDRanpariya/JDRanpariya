@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, SvelteKit**
 
-- 👯 I’m looking to collaborate on **/Just Wanna Make New Friends/** Let's Talk 
+- 👯 I’m looking to collaborate on **ML/AI Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
