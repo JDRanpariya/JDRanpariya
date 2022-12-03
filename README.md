@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Setting up Priorities and Now Page**
 
-- 🌱 I’m currently learning **Typescript, SvelteKit**
+- 🌱 I’m currently learning **Yet to decide**
 
-- 👯 I’m looking to collaborate on **ML/AI Projects**
+- 👯 I’m looking to collaborate on **Tech Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jdranpariya)
 
