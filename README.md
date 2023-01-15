@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at [Github](https://github.com/jdranpariya)
 
-- 💬 Have a proposal or just wanna chat! 
+- 💬 Willing to help out! 
  @Discord JDRanpariya#8897
  
 - Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
