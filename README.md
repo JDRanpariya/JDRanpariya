@@ -2,7 +2,7 @@
 <h3 align="center">I'm AI & Cognitive Science enthusiast</h3>
 <br/>
 
-<img align="right" alt="GIF" height="250px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
+<img align="right" alt="GIF" height="240px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
 
 - 🔭 I’m currently working on **Setting up Priorities and Now Page**
 
