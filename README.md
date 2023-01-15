@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
-<h3 align="center">I'm AI and Data Science enthusiast</h3>
+<h3 align="center">I'm AI & Cognitive Science enthusiast</h3>
 <br/>
 
 <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/ai_glitch.gif" />
 
 - 🔭 I’m currently working on **Setting up Priorities and Now Page**
 
-- 🌱 I’m currently learning **Yet to decide**
+- 🌱 I’m currently learning **Unix, Vim**
 
-- 👯 I’m looking to collaborate on **Tech Projects**
+- 👯 I’m looking to collaborate on **Cog Sci Research Projects**
 
 - 👨‍💻 Some of my projects are available at [Github](https://github.com/jdranpariya)
 
