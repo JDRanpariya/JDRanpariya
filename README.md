@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Setting up Priorities and Now Page**
 
-- 🌱 I’m currently learning **Unix, Vim**
+- 🌱 I’m currently learning **AI, Unix**
 
 - 👯 I’m looking to collaborate on **Cog Sci Research Projects**
 
