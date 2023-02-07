@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="240px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
 
-- 🔭 I’m currently working on **Setting up Priorities and Now Page**
+- 🔭 I’m currently working on **Setting up Now Page**
 
 - 🌱 I’m currently learning **AI, Unix**
 
