@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI, Unix**
 
-- 👯 I’m looking to collaborate on **Cog Sci Research Projects**
+- 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 👨‍💻 Some of my projects are available at [Github](https://github.com/jdranpariya)
 
