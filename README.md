@@ -4,18 +4,15 @@
 
 <img align="right" alt="GIF" height="240px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
 
-- 🔭 I’m currently working on **Setting up Now Page**
+- 🔭 I’m currently working on **[Freelancing](https://www.upwork.com/freelancers/~019bca700275d48857) & Teaching myself CS**
 
-- 🌱 I’m currently learning **AI, Unix**
+- 🌱 I’m currently learning **Fundamentals of CS**
 
-- 👯 I’m looking to collaborate on **Interesting Projects**
+- 👯 I’m looking to collaborate with **Amazing People** - If you think you are ping me on discord
 
-- 👨‍💻 Some of my projects are available at [Github](https://github.com/jdranpariya)
-
-- 💬 Willing to help out! 
- @Discord JDRanpariya#8897
+- 💬 Willing to help out! at Discord JDRanpariya
  
-- Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
+- 💻 Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
 <br />
 <details><summary>Skills</summary>
   
@@ -57,16 +54,12 @@
 
 
 ## I'm looking forward to 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 </details>
 <details><summary>Certifications</summary>
- ✔️ Machine Learning by stanford ( Andrew Ng ) <br>
+ ✔️ Machine Learning by Stanford ( Andrew Ng ) <br>
  ✔️ Deep Learning Specialization by Andrew Ng <br>
  ✔️ SQL for Data Science <br>
  ✔️ DeepLearning.AI TensorFlow Developer <br>
