@@ -4,18 +4,20 @@
 
 <img align="right" alt="GIF" height="240px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
 
-- 🔭 I’m currently working on **[Freelancing](https://www.upwork.com/freelancers/~019bca700275d48857) & [Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
+🔭 I’m currently working on **[Freelancing](https://www.upwork.com/freelancers/~019bca700275d48857) & [Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
 
-- 🌱 I’m currently reading **Never Split the Difference**
+🌱 I’m currently reading **Never Split the Difference**
 
-- 👯 I’m looking to collaborate with **Amazing People** - If you think you are ping me on discord
+👯 I’m looking to collaborate with **Amazing People** - If you think you are ping me on discord
 
-- ✨ Friends Edition on [Carrds](https://jdranpariya.carrd.co)
+✨ Friends Edition on [Carrds](https://jdranpariya.carrd.co)
 
-- 💬 Willing to help out! at Discord <I>JDRanpariya</I>
+💬 Willing to help out! at Discord <I>JDRanpariya</I>
  
-- 💻 Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
+💻 Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
+
 <br />
+
 <details><summary>Skills</summary>
   
 ### Full Stack developer
