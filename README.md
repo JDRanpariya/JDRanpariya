@@ -8,11 +8,9 @@
 
 🌱 I’m currently reading **Never Split the Difference**
 
-👯 I’m looking to collaborate with **Amazing People** - If you think you are ping me on discord
+👯 I’m looking to collaborate on **Intelligent Systems** - If you're interested, drop a mail!
 
-✨ Friends Edition on [Carrds](https://jdranpariya.carrd.co)
-
-💬 Willing to help out! at Discord <I>JDRanpariya</I>
+💬 Contact: jay.ranpariya@fau.de
  
 💻 Hire Me [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
 
