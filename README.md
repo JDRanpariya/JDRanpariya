@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="220px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
 
-🔭 I’m currently working on **[Freelancing](https://www.upwork.com/freelancers/~019bca700275d48857) & [Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
+🔭 I’m currently working on **[Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
 
 🌱 I’m currently reading **Never Split the Difference**
 
