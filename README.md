@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **[Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
 
-🌱 I’m currently reading **Never Split the Difference**
+🌱 I’m currently reading **Why We Sleep**
 
 👯 I’m looking to collaborate on **Intelligent Systems** - If you're interested, drop a mail!
 
