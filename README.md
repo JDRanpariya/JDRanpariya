@@ -8,7 +8,7 @@
 
 🌱 I’m currently reading **Why We Sleep**
 
-👯 I’m looking to collaborate on **Autonomous Intelligent Systems**
+👯 I’m looking to collaborate on **Physical AI**
 
 💬 Contact: jay.ranpariya@fau.de
  
