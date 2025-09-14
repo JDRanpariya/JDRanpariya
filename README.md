@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">I'm AI & Robotics enthusiast</h3>
+<h3 align="center">Epistemic Forager</h3>
 <br/>
 
 <img align="right" alt="GIF" height="220px" src="https://github.com/JDRanpariya/JDRanpariya/blob/main/Cognitive_Science_Hexagon.jpg" />
