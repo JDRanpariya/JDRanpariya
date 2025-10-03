@@ -8,7 +8,7 @@
 
 🌱 I’m currently reading **Anti-fragile**
 
-👯 I’m looking to collaborate on **Physical AI**
+👯 I’m looking to collaborate on **Physical AI** and [Kosha](https://github.com/jdranpariya/kosha)
 
 💬 Contact: jay.ranpariya@fau.de
  
