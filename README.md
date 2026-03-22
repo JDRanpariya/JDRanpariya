@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **[Teaching myself CS](https://github.com/JDRanpariya/Teach-yourself-CS)**
 
-🌱 I’m currently reading **Anti-fragile**
+🌱 I’m currently reading **Emotional Intelligence**
 
 👯 I’m looking to collaborate on **Physical AI** and [Kosha](https://github.com/jdranpariya/kosha)
 
