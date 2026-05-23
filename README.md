@@ -8,7 +8,7 @@
 
 🌱 I’m currently reading **The School of Life**
 
-👯 I’m looking to collaborate on **Physical AI** and [Kosha](https://github.com/jdranpariya/kosha)
+👯 I’m looking to collaborate on [Tardigrade](https://github.com/JDRanpariya/tardigrade) and [Kosha](https://github.com/jdranpariya/kosha)
 
 💬 Contact: jay.ranpariya@fau.de
  
