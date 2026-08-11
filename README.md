@@ -8,13 +8,11 @@
 
 🦿 Building **[Tardigrade](https://github.com/JDRanpariya/tardigrade)**, a palm-sized quadruped with custom actuators
 
-👯 Happy to collaborate on it
-
-🌐 [jdranpariya.github.io](https://jdranpariya.github.io)
-
-💬 Contact: jay.ranpariya@fau.de
+🌐 My [Website](https://jdranpariya.github.io)
 
 💻 My [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
+
+💬 Contact: jay.ranpariya@fau.de
 
 <br />
 
