@@ -4,13 +4,11 @@
 
 <img align="right" alt="Cognitive Science Hexagon" height="220px" src="https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/Cognitive_Science_Hexagon.jpg" />
 
-🔭 Currently writing my **MSc thesis** — multimodal imitation learning via hardware-native proprioception for contact-rich manipulation
+🔭 Writing my MSc thesis on imitation learning for robot manipulation
 
-🦿 Building **[Tardigrade](https://github.com/JDRanpariya/tardigrade)** — a palm-sized quadruped with custom BLDC actuators, FOC firmware, sim, and learning-based control. Built from scratch to learn the full physical AI stack.
+🦿 Building **[Tardigrade](https://github.com/JDRanpariya/tardigrade)**, a palm-sized quadruped with custom actuators
 
-📬 And **[Kosha](https://github.com/JDRanpariya/Kosha)** — a personalized digest
-
-👯 I'm looking to collaborate on either
+👯 Happy to collaborate on it
 
 🌐 [jdranpariya.github.io](https://jdranpariya.github.io)
 
@@ -63,8 +61,6 @@
  ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
  ✔️ AI for Medicine Specialization - DeepLearning.AI  
 </details>
-
-<br/>
 
 ## 📫 Reach me at:
 
