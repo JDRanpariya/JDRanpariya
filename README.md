@@ -8,7 +8,7 @@
 
 🦿 Building **[Tardigrade](https://github.com/JDRanpariya/tardigrade)**, a palm-sized quadruped with custom actuators
 
-🌐 My [Website](https://jdranpariya.github.io)
+🌐 My [Website](https://jdranpariya.com)
 
 💻 My [Resume](https://docs.google.com/document/d/17D4dtOZ-80xkc2tLOPIczvYVLv-aZSeX/edit?usp=sharing&ouid=117973092736381335208&rtpof=true&sd=true)
 
